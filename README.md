@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://github.com/rajatpradhanlabs/rajatpradhanlabs/blob/main/github-header-banner.png" alt="Profile Banner" width="100%">
+</p>
+
 # About Me | SRE & DevOps Expert
 
 Solving complex problems at scale is what drives me.
